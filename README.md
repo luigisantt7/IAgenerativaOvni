@@ -58,7 +58,11 @@ Criei estes prompts padronizados para você utilizar no seu modelo de IA favorit
 
 > 🗣️ *"Compare o comportamento da FAB perante avistamentos de OVNIs na década de 1970 com a declaração oficial da FAB no recente caso do influenciador Mayk Leão
 >
-> ### 4. Fontes
+### 4. Fontes
+> https://notebooklm.google.com/notebook/9dd7149f-d243-4ef2-87ba-1e3f2fe2461e
+> 
 > https://g1.globo.com/pr/parana/noticia/2026/06/03/assustador-e-bonito-diz-influenciador-que-registrou-luzes-e-relatou-ovnis-no-parana.ghtml
+> 
 > probabilidad-de-deteccic2b4on-de-vida-extraterrestre
+> 
 > 2025_RenanKlepa_VCorr
