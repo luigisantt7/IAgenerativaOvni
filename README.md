@@ -56,4 +56,9 @@ Criei estes prompts padronizados para você utilizar no seu modelo de IA favorit
 
 > 🗣️ *"Atue como um astrobiólogo. Liste as variáveis biológicas e tecnológicas da Equação de Drake e explique por que a detecção de 'Biofirmas' tem mais chances matemáticas de sucesso do que a detecção de ondas de rádio de seres inteligentes."*
 
-> 🗣️ *"Compare o comportamento da FAB perante avistamentos de OVNIs na década de 1970 com a declaração oficial da FAB no recente caso do influenciador Mayk Leão."*
+> 🗣️ *"Compare o comportamento da FAB perante avistamentos de OVNIs na década de 1970 com a declaração oficial da FAB no recente caso do influenciador Mayk Leão
+>
+> ### 4. Fontes
+> https://g1.globo.com/pr/parana/noticia/2026/06/03/assustador-e-bonito-diz-influenciador-que-registrou-luzes-e-relatou-ovnis-no-parana.ghtml
+> probabilidad-de-deteccic2b4on-de-vida-extraterrestre
+> 2025_RenanKlepa_VCorr
